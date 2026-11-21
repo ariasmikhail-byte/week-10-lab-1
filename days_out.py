@@ -1,3 +1,10 @@
+# Mikhail Arias
+# CMP 131
+# Week: 10
+# Lab: 1
+# Program: Days Out
+# November 20, 2026
+
 def get_number_of_employees():
     while True:
         number_of_employees = int(input("Enter the number of employees: "))

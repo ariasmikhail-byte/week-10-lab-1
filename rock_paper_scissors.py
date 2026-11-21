@@ -2,7 +2,7 @@
 # CMP 131
 # Week: 10
 # Lab: 1
-# Program: Days Out
+# Program: Rock Paper Scissors
 # November 20, 2026
 
 import random
